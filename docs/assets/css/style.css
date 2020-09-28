@@ -85,23 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Combines the div class under the benefits ID all together */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Combines the h3 class under the benefits ID all together */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Combines the img class under the benefits ID all together */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Combines the div class under the content ID all together */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,10 +111,12 @@ p {
     color: #ffffff;
 }
 
+/* Combines the img class under the content ID all together */
 .content img {
     max-height: 200px;
 }
 
+/* Combines the h2 class under the content ID all together */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
